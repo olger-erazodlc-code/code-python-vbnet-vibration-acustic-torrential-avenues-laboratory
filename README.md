@@ -1,4 +1,4 @@
-# code-python-vbnet-microseismic-acustic-torrential-avenues-laboratory
+# code-python-vbnet-vibration-acustic-torrential-avenues-laboratory
 The repository contains Python code for training SVMs and Random F. using acoustic and microseismic features obtained from experiments involving rock displacement under different flow rates. It includes a CSV file with 78 columns, audio and video files, and experimental data, as well as a module for extracting, merging, and classifying the signals.
 
 This repository contains the Python code developed to train Support Vector Machine (SVM) and Random Forest models, using features extracted from acoustic and microseismic signals. The data were obtained from experiments conducted in a channel with variable and fixed slopes, in which rock displacements and impacts were simulated under different flow conditions.
